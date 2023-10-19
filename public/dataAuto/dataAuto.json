@@ -1,0 +1,2703 @@
+{
+    "_uid": "08c7f596-3d02-4b9f-aea0-0672c4034a52",
+    "body": [
+        {
+            "_uid": "7d593d82-fd6d-4113-83d3-fae4a9260cd5",
+            "title": "Start and finish your projects on Autodesk",
+            "video": "",
+            "button": [
+                {
+                    "_uid": "046ffa87-c8a8-4f58-b745-da15be36dfbd",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Get a Demo",
+                    "color": {
+                        "_uid": "beeafca8-e943-45e6-ac3f-216046911006",
+                        "color": "#000002",
+                        "plugin": "official-colorpicker"
+                    },
+                    "modal": [],
+                    "params": "",
+                    "bgColor": {
+                        "_uid": "ff499448-dfaf-477e-a961-a5d709e60865",
+                        "color": "#FFFFFF",
+                        "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                        "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                        "url": "",
+                        "_uid": "966936f9-c0e9-41ce-a6f0-364a91cad0f7",
+                        "anchor": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "us/contact/",
+                        "story": {
+                            "name": "Contact Us 2.5",
+                            "id": 216790104,
+                            "uuid": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                            "slug": "contact",
+                            "url": "us/contact/",
+                            "full_slug": "us/contact/",
+                            "_stopResolving": true
+                        }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "dropdown": [],
+                    "fragment": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "dataProduct": "generic",
+                    "modalIsDark": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "cta-demo",
+                    "alignmentButton": "left",
+                    "forwardUTMParams": false,
+                    "mutinyConversion": "homepage_hero_CTA",
+                    "anchorLinkIsInvisible": false,
+                    "isButtonAssetDownload": false
+                }
+            ],
+            "bgImage": [
+                {
+                    "_uid": "946899fb-8c63-4afa-8f55-c21d05ab2e4c",
+                    "image": "//a.storyblok.com/f/64835/1440x680/9580bea720/acc-home-hero-image-desktop-b-2.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Autodesk Construction Cloud Construction Management Software",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "mobileImage": {
+                        "id": 10164777,
+                        "alt": "ACC-Home-Hero-Image-PHONE-B 2",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/64835/430x280/792463bedc/acc-home-hero-image-phone-b-2.png",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "tabletImage": {
+                        "id": 10164774,
+                        "alt": "ACC-Home-Hero-Image-TABLET-B 1",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/64835/848x380/9d2d56c354/acc-home-hero-image-tablet-b-1.png",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "noBorderRadius": false,
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "topLogo": "",
+            "variant": "default",
+            "appLinks": [
+                {
+                    "m": "",
+                    "p": "",
+                    "id": "",
+                    "mb": "",
+                    "ml": "",
+                    "mr": "",
+                    "mt": "",
+                    "mx": "",
+                    "my": "",
+                    "pb": "",
+                    "pl": "",
+                    "pr": "",
+                    "pt": "",
+                    "px": "",
+                    "py": "",
+                    "css": [],
+                    "top": "",
+                    "_uid": "01273e22-f3ff-4493-a33b-7fa8a1ba89a8",
+                    "flex": "",
+                    "left": "",
+                    "clone": false,
+                    "color": {
+                        "_uid": "36544fcf-e137-4429-82a4-4e1ce54a79e1",
+                        "color": "",
+                        "plugin": "official-colorpicker"
+                    },
+                    "order": "",
+                    "right": "",
+                    "width": "auto",
+                    "bgClip": "",
+                    "bgSize": "",
+                    "border": "",
+                    "bottom": "",
+                    "height": "auto",
+                    "zIndex": "",
+                    "bgColor": {
+                        "_uid": "a917da54-2c5c-4f1d-a294-b23bf4e8a116",
+                        "color": "",
+                        "plugin": "official-colorpicker"
+                    },
+                    "bgImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "source": null,
+                        "filename": "",
+                        "copyright": null,
+                        "fieldtype": "asset",
+                        "meta_data": {}
+                    },
+                    "content": [
+                        {
+                            "_uid": "31ab674e-d004-4d22-9f09-397d70c08f2a",
+                            "image": "//a.storyblok.com/f/64835/118x22/23fcf7b6f1/star-ratings.svg",
+                            "title": "",
+                            "width": "118px",
+                            "height": "22px",
+                            "altText": "star ratings",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "",
+                            "objectFit": "Contain",
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        },
+                        {
+                            "m": "",
+                            "p": "",
+                            "id": "",
+                            "mb": "",
+                            "ml": "2",
+                            "mr": "",
+                            "mt": "",
+                            "mx": "",
+                            "my": "",
+                            "pb": "",
+                            "pl": "",
+                            "pr": "",
+                            "pt": "",
+                            "px": "",
+                            "py": "",
+                            "css": [],
+                            "top": "",
+                            "_uid": "ac9b4a76-70d0-4308-ba1d-5117ecf67625",
+                            "flex": "",
+                            "left": "",
+                            "clone": false,
+                            "color": {
+                                "_uid": "a2cd3204-12f9-4eca-864b-fea41b5a772f",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "order": "",
+                            "right": "",
+                            "width": "auto",
+                            "bgClip": "",
+                            "bgSize": "",
+                            "border": "",
+                            "bottom": "",
+                            "height": "auto",
+                            "zIndex": "",
+                            "bgColor": {
+                                "_uid": "e70133aa-3dd5-4653-915a-4190e3999a83",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "bgImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "source": null,
+                                "filename": "",
+                                "copyright": null,
+                                "fieldtype": "asset",
+                                "meta_data": {}
+                            },
+                            "content": [
+                                {
+                                    "_uid": "8166b7b6-8f9d-422d-a121-4b4bcc7bf5ac",
+                                    "text": "Based on +17,000 reviews ",
+                                    "align": "inherit",
+                                    "color": {
+                                        "_uid": "67d34da2-5c50-41ef-879b-d3a715ad4203",
+                                        "color": "",
+                                        "plugin": "official-colorpicker"
+                                    },
+                                    "image": {
+                                        "id": null,
+                                        "alt": null,
+                                        "name": "",
+                                        "focus": null,
+                                        "title": null,
+                                        "source": null,
+                                        "filename": "",
+                                        "copyright": null,
+                                        "fieldtype": "asset",
+                                        "meta_data": {}
+                                    },
+                                    "noWrap": false,
+                                    "display": "initial",
+                                    "variant": "body1",
+                                    "component": "typography",
+                                    "paragraph": false,
+                                    "gutterBottom": false
+                                }
+                            ],
+                            "display": "flex",
+                            "htmlTag": "div",
+                            "bgOrigin": "",
+                            "bgRepeat": "",
+                            "flexGrow": "",
+                            "flexWrap": "",
+                            "fontSize": "",
+                            "maxWidth": "initial",
+                            "minWidth": "initial",
+                            "overflow": "",
+                            "position": "",
+                            "alignSelf": "",
+                            "borderTop": "",
+                            "boxShadow": "",
+                            "component": "box",
+                            "displayLG": "",
+                            "displayMD": "",
+                            "displaySM": "",
+                            "displayXL": "",
+                            "displayXS": "",
+                            "fontStyle": "",
+                            "maxHeight": "initial",
+                            "minHeight": "initial",
+                            "mobileCSS": [
+                                {
+                                    "key": "margin",
+                                    "_uid": "14bc6439-580c-4481-be98-fdac75c1cea3",
+                                    "value": "0.5rem 0",
+                                    "component": "entry"
+                                }
+                            ],
+                            "tabletCSS": [],
+                            "textAlign": "",
+                            "alignItems": "",
+                            "bgPosition": "",
+                            "borderLeft": "",
+                            "flexShrink": "",
+                            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                            "fontWeight": "",
+                            "lineHeight": "",
+                            "visibility": "",
+                            "whiteSpace": "",
+                            "bgBlendMode": "",
+                            "borderColor": {
+                                "_uid": "38945250-65e6-42fa-a797-7a93059328e0",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "borderRight": "",
+                            "alignContent": "",
+                            "borderBottom": "",
+                            "borderRadius": "",
+                            "displayPrint": "",
+                            "textOverflow": "",
+                            "flexDirection": "",
+                            "letterSpacing": "",
+                            "justifyContent": "",
+                            "hasPageContainer": false,
+                            "hasFixedContainer": false
+                        }
+                    ],
+                    "display": "flex",
+                    "htmlTag": "div",
+                    "bgOrigin": "",
+                    "bgRepeat": "",
+                    "flexGrow": "",
+                    "flexWrap": "",
+                    "fontSize": "",
+                    "maxWidth": "initial",
+                    "minWidth": "initial",
+                    "overflow": "",
+                    "position": "",
+                    "alignSelf": "",
+                    "borderTop": "",
+                    "boxShadow": "",
+                    "component": "box",
+                    "displayLG": "",
+                    "displayMD": "",
+                    "displaySM": "",
+                    "displayXL": "",
+                    "displayXS": "",
+                    "fontStyle": "",
+                    "maxHeight": "initial",
+                    "minHeight": "initial",
+                    "mobileCSS": [
+                        {
+                            "key": "flexDirection",
+                            "_uid": "436b465a-3c7f-4be5-8d07-60885b84c315",
+                            "value": "column",
+                            "component": "entry"
+                        }
+                    ],
+                    "tabletCSS": [],
+                    "textAlign": "",
+                    "alignItems": "",
+                    "bgPosition": "",
+                    "borderLeft": "",
+                    "flexShrink": "",
+                    "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+                    "fontWeight": "",
+                    "lineHeight": "",
+                    "visibility": "",
+                    "whiteSpace": "",
+                    "bgBlendMode": "",
+                    "borderColor": {
+                        "_uid": "8d60f5d0-4fc5-478e-a384-93d3ee00f438",
+                        "color": "",
+                        "plugin": "official-colorpicker"
+                    },
+                    "borderRight": "",
+                    "alignContent": "",
+                    "borderBottom": "",
+                    "borderRadius": "",
+                    "displayPrint": "",
+                    "textOverflow": "",
+                    "flexDirection": "",
+                    "letterSpacing": "",
+                    "justifyContent": "",
+                    "hasPageContainer": false,
+                    "hasFixedContainer": false
+                }
+            ],
+            "infoText": "",
+            "alertText": "CONSTRUCTION MANAGEMENT SOFTWARE",
+            "boldTitle": true,
+            "component": "heroFrame",
+            "titleSize": "large",
+            "description": "Tired of juggling different solutions to complete one project? Save time and money by connecting every project stage on one construction management platform.",
+            "bgImageAlign": "bottomRight",
+            "moduleHeight": "",
+            "secondaryCTA": [],
+            "smallerTitle": false,
+            "alertTextIsH1": true,
+            "bottomContent": [],
+            "topLogoH1Text": "",
+            "breadcrumbLink": [],
+            "textProportion": "43",
+            "backgroundImage": "//a.storyblok.com/f/64835/1440x680/9580bea720/acc-home-hero-image-desktop-b-2.png",
+            "foregroundImage": "//a.storyblok.com/f/64835/1400x1000/dde7fb4577/hero-ui_v02.png",
+            "foregroundVideo": {
+                "id": 10263433,
+                "alt": "Tilting UI video",
+                "name": "",
+                "focus": "",
+                "title": "",
+                "source": "",
+                "filename": "https://a.storyblok.com/f/64835/x/41579b7b05/hero-ui-tilting.mp4",
+                "copyright": "",
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_external_url": false
+            },
+            "rightImageAlign": [],
+            "topLogoMaxHeight": "",
+            "alertTextPosition": "100%",
+            "eyebrowCustomColor": {
+                "_uid": "0406fe69-190e-41ac-9b84-d31888334608",
+                "color": "#ffc21a",
+                "plugin": "official-colorpicker"
+            },
+            "smallerDescription": false,
+            "hasBackgroundOverlay": false
+        },
+        {
+            "_uid": "1af9c43f-7554-4514-bbde-49cfa28b9749",
+            "amount": "3",
+            "margin": "",
+            "bgColor": {
+                "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": false
+        },
+        {
+            "cta": [],
+            "_uid": "abe43cf8-886b-4153-a57c-6e2d861cc3f7",
+            "logos": [
+                {
+                    "_uid": "11deefa1-b5d7-4a61-8aba-0712b2f017e5",
+                    "image": "//a.storyblok.com/f/64835/90x23/22b7e8fdb5/boldt-logo.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Boldt Logo",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                },
+                {
+                    "_uid": "01fb42d4-25c7-47d5-8dd2-3c619e5f27b7",
+                    "image": "//a.storyblok.com/f/64835/105x51/c6950a8c32/dpr-logo.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "DPR Construction Logo",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                },
+                {
+                    "_uid": "693f34bf-e034-4bab-a97d-dd8f79e35c1e",
+                    "image": "//a.storyblok.com/f/64835/1541x723/59f8d46de0/miron-logo.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Miron Logo",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Contain",
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                },
+                {
+                    "_uid": "a1228c67-646d-46ec-9e85-9f47e9d03872",
+                    "image": "//a.storyblok.com/f/64835/115x51/2b74bb9857/walsh-green-1.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Walsh Construction logo",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Cover",
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                },
+                {
+                    "_uid": "994855e9-6b0a-4974-9d68-532e29faa5b4",
+                    "image": "//a.storyblok.com/f/64835/1699x220/e6db2a29fb/granger-logo.svg",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Granger logo",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Cover",
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "variant": "homepageLogoBanner",
+            "headline": "",
+            "component": "customerLogosModule",
+            "l10nExport": false,
+            "ctaWithRule": true,
+            "description": "#### **Construction management software trusted by builders on 2M+ projects**",
+            "isFullWidth": false,
+            "headlineColor": {
+                "_uid": "0e0d8561-a1ff-43fb-92dc-4b2493c44d6a",
+                "color": "#000002",
+                "plugin": "official-colorpicker"
+            },
+            "isColorInvert": false,
+            "backgroundColor": {
+                "_uid": "d520633a-9667-46ff-b6b0-0bfcd639feb0",
+                "color": "#FFFFFF",
+                "plugin": "official-colorpicker"
+            }
+        },
+        {
+            "m": "",
+            "p": "",
+            "id": "",
+            "mb": "",
+            "ml": "",
+            "mr": "",
+            "mt": "",
+            "mx": "",
+            "my": "",
+            "pb": "",
+            "pl": "",
+            "pr": "",
+            "pt": "",
+            "px": "",
+            "py": "",
+            "css": [],
+            "top": "",
+            "_uid": "2ec76317-8141-4ee7-9de1-f8c082deddfc",
+            "flex": "",
+            "left": "",
+            "clone": false,
+            "color": {
+                "_uid": "4130574c-ff03-4c1c-8f5b-bf1852a01391",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "order": "",
+            "right": "",
+            "width": "auto",
+            "bgClip": "",
+            "bgSize": "",
+            "border": "",
+            "bottom": "",
+            "height": "auto",
+            "zIndex": "",
+            "bgColor": {
+                "_uid": "a77cffd9-e5bd-4221-bf6e-7ea4c9be98a2",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "bgImage": {
+                "id": null,
+                "alt": null,
+                "name": "",
+                "focus": null,
+                "title": null,
+                "source": null,
+                "filename": "",
+                "copyright": null,
+                "fieldtype": "asset",
+                "meta_data": {}
+            },
+            "content": [
+                {
+                    "_uid": "c0b0050a-0fe8-49e7-96d6-1aac9ff26613",
+                    "color": {
+                        "_uid": "a476622a-c316-4740-a7c3-453426f9774b",
+                        "color": "#CCCCCC",
+                        "plugin": "official-colorpicker"
+                    },
+                    "margin": "",
+                    "variant": "",
+                    "component": "horizontalRule",
+                    "lineHeight": "2",
+                    "hideForMobile": false,
+                    "widthProportion": ""
+                }
+            ],
+            "display": "flex",
+            "htmlTag": "div",
+            "bgOrigin": "",
+            "bgRepeat": "",
+            "flexGrow": "",
+            "flexWrap": "",
+            "fontSize": "",
+            "maxWidth": "",
+            "minWidth": "",
+            "overflow": "",
+            "position": "",
+            "alignSelf": "",
+            "borderTop": "",
+            "boxShadow": "",
+            "component": "box",
+            "displayLG": "",
+            "displayMD": "",
+            "displaySM": "",
+            "displayXL": "",
+            "displayXS": "",
+            "fontStyle": "",
+            "maxHeight": "",
+            "minHeight": "",
+            "mobileCSS": [],
+            "tabletCSS": [],
+            "textAlign": "",
+            "alignItems": "",
+            "bgPosition": "",
+            "borderLeft": "",
+            "flexShrink": "",
+            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+            "fontWeight": "",
+            "lineHeight": "",
+            "visibility": "",
+            "whiteSpace": "",
+            "bgBlendMode": "",
+            "borderColor": {
+                "_uid": "697d194f-16f7-4514-bf43-58b0cd8f42dc",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "borderRight": "",
+            "alignContent": "",
+            "borderBottom": "",
+            "borderRadius": "",
+            "displayPrint": "",
+            "textOverflow": "",
+            "flexDirection": "",
+            "letterSpacing": "",
+            "justifyContent": "center",
+            "hasPageContainer": true,
+            "hasFixedContainer": true
+        },
+        {
+            "_uid": "5c7601cf-9329-48e2-b25e-3b409b0c7b86",
+            "amount": "3",
+            "margin": "",
+            "bgColor": {
+                "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": false
+        },
+        {
+            "cta": [],
+            "_uid": "1c653e67-9cef-4d32-8587-d0066fc88e95",
+            "body": [],
+            "icon": [],
+            "title": "",
+            "bgColor": {
+                "_uid": "f3b0b174-1984-4328-9c75-15e4751e403e",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "variant": "",
+            "iconText": "",
+            "subtitle": "Your single source of truth for every project",
+            "component": "titleSubtitleDescriptionModule",
+            "smallTitle": false,
+            "description": [
+                {
+                    "_uid": "a5d77b1f-2c61-4618-bcbc-093c167874e4",
+                    "variant": "",
+                    "markdown": " With Autodesk Construction Cloud, your project teams can collaborate securely and quickly, so you can deliver projects on time and on budget.",
+                    "component": "markdown"
+                }
+            ],
+            "iconTextIsH1": false,
+            "textAlignment": "center",
+            "subtitleProportion": "",
+            "descriptionProportion": "85"
+        },
+        {
+            "_uid": "23083d1e-05dd-4284-8f83-35acb08dae8c",
+            "amount": "3",
+            "margin": "",
+            "bgColor": {
+                "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": false
+        },
+        {
+            "cta": [
+                {
+                    "_uid": "0d3a4d03-0b93-4f6d-bdd8-7473ba902410",
+                    "icon": "chevron_right",
+                    "size": "medium",
+                    "text": "See all Autodesk Construction Cloud Products",
+                    "color": {
+                        "_uid": "35acd720-fbf5-4448-ad2c-9e7035657102",
+                        "color": "#FFFFFF",
+                        "plugin": "official-colorpicker"
+                    },
+                    "params": "",
+                    "bgColor": {
+                        "_uid": "6aaef97f-cac6-4c8e-abcc-4439aaaed537",
+                        "color": "#000002",
+                        "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                        "id": "d879a2b9-15cc-4176-9a85-e09783f6ab2b",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "us/products/",
+                        "story": {
+                            "name": "All Products",
+                            "id": 32296754,
+                            "uuid": "d879a2b9-15cc-4176-9a85-e09783f6ab2b",
+                            "slug": "products",
+                            "url": "us/products/",
+                            "full_slug": "us/products/",
+                            "_stopResolving": true
+                        }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "fragment": "",
+                    "analytics": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "alignmentButton": ""
+                }
+            ],
+            "_uid": "9d5329c8-18ef-4887-ac5c-d9c7b141f849",
+            "image": [
+                {
+                    "_uid": "87400525-7a47-4c70-afb5-af137e056576",
+                    "image": "//a.storyblok.com/f/64835/1710x808/c19a525d8d/construction-management-software-desktop-855x404x2.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Construction management software connecting all phase of construction",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "400px",
+                    "minHeight": "",
+                    "objectFit": "contain",
+                    "mobileImage": {
+                        "id": 10513836,
+                        "alt": "Autodesk Construction Cloud construction management platform",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/64835/4581x3801/c66f1eda78/construction-management-platform-mobile-380x316.png",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "tabletImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": null,
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "noBorderRadius": false,
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "title": "",
+            "phases": [],
+            "bgColor": {
+                "_uid": "4dbb57f6-dcbd-4047-a73c-85dca86c1099",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "component": "lifecycleModule"
+        },
+        {
+            "_uid": "3d9bb8ac-2472-4f7c-9598-0c6bf58ca198",
+            "amount": "9",
+            "margin": "",
+            "bgColor": {
+                "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": false
+        },
+        {
+            "cta": [],
+            "_uid": "e5e1cc57-e905-46c4-ac33-76b43e852b1d",
+            "body": [],
+            "icon": [],
+            "title": "",
+            "bgColor": {
+                "_uid": "48720b77-cc67-47d8-81bd-a85f0a2a1a64",
+                "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00), rgba(204, 204, 204, 0.15)) #FFFFFF",
+                "plugin": "official-colorpicker"
+            },
+            "variant": "",
+            "iconText": "",
+            "subtitle": "Construction software built for builders",
+            "component": "titleSubtitleDescriptionModule",
+            "smallTitle": false,
+            "description": [
+                {
+                    "_uid": "cc53f0d3-5bc2-4586-bb78-3c238bee404f",
+                    "variant": "",
+                    "markdown": "Keep your projects on track with real-time insights into costs, schedules, and more. When you know where every project stands today, you can get more done tomorrow.",
+                    "component": "markdown"
+                }
+            ],
+            "iconTextIsH1": false,
+            "textAlignment": "center",
+            "subtitleProportion": "",
+            "descriptionProportion": "85"
+        },
+        {
+            "_uid": "e97ef0ad-c35a-4c92-965d-48e087ee551a",
+            "color": {
+                "_uid": "165a1095-eb95-49c6-b8d6-57852f9b2655",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "image": [
+                {
+                    "_uid": "a1c26f59-54db-48ab-af27-32c19b0d7be3",
+                    "image": "//a.storyblok.com/f/64835/1817x1119/b99b13e74a/general-contractor-workflow-mockup-3x.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Construction Management Software for General Contractors",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Cover",
+                    "mobileImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": null,
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": null,
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "noBorderRadius": false,
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "advanced": "",
+            "headline": "",
+            "variants": "homepage",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+                {
+                    "_uid": "eddb5643-6db9-4a10-bbbc-d672fc7230b2",
+                    "link": [
+                        {
+                            "_uid": "cd3b077e-a83b-4c7a-a537-9275b0c65bc3",
+                            "icon": "chevron_right",
+                            "size": "small",
+                            "text": "Learn more",
+                            "color": {
+                                "_uid": "29044e3a-e2ac-4474-bfa9-c3d96c2ec1fe",
+                                "color": "#FFFFFF",
+                                "plugin": "official-colorpicker"
+                            },
+                            "modal": [],
+                            "params": "",
+                            "bgColor": {
+                                "_uid": "923f7137-a849-414f-b521-9d8e0876e9be",
+                                "color": "#000002",
+                                "plugin": "official-colorpicker"
+                            },
+                            "linksTo": {
+                                "id": "a051ebd2-41c2-46c4-8ac6-054144d7a26f",
+                                "url": "",
+                                "linktype": "story",
+                                "fieldtype": "multilink",
+                                "cached_url": "us/solutions/general-contractors",
+                                "story": {
+                                    "name": "General Contractors",
+                                    "id": 26271696,
+                                    "uuid": "a051ebd2-41c2-46c4-8ac6-054144d7a26f",
+                                    "slug": "general-contractors",
+                                    "url": "us/solutions/general-contractors",
+                                    "full_slug": "us/solutions/general-contractors",
+                                    "_stopResolving": true
+                                }
+                            },
+                            "variant": "contained",
+                            "disabled": false,
+                            "dropdown": [],
+                            "fragment": "",
+                            "component": "button",
+                            "fullWidth": false,
+                            "dataProduct": "",
+                            "modalIsDark": false,
+                            "openInNewTab": false,
+                            "dataAnalytics": "",
+                            "textTransform": "",
+                            "alignmentButton": "left",
+                            "forwardUTMParams": false,
+                            "mutinyConversion": "homepage_GC_LearnMore",
+                            "anchorLinkIsInvisible": false,
+                            "isButtonAssetDownload": false
+                        }
+                    ],
+                    "stat": "",
+                    "title": "General Contractors",
+                    "boldTitle": true,
+                    "component": "highlight",
+                    "description": "Spend less time in the weeds and more time building. Give your teams the real-time data they need to get the job done."
+                }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": true,
+            "imageFullWidth": false,
+            "backgroundColor": {
+                "_uid": "7ea4f6a8-f9d9-422e-a590-bf69e4186468",
+                "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00), rgba(204, 204, 204, 0.15)) #FFFFFF",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "0",
+            "addShadowToImage": false,
+            "showImageOnMobile": true,
+            "imagePaddingBottom": "0",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+                "_uid": "bbc1fd67-e180-4f78-a694-6279fb59ec62",
+                "color": "#000002",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "mobileImageOnBottom": false
+        },
+        {
+            "_uid": "585528d6-d51d-4d65-acd3-bcf84cb0dd5b",
+            "color": {
+                "_uid": "165a1095-eb95-49c6-b8d6-57852f9b2655",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "image": [
+                {
+                    "_uid": "e67e0002-f54e-4657-a494-bfdf6f945093",
+                    "image": "//a.storyblok.com/f/64835/1198x692/d80c9cfe8b/segment-specialty-contractor-collage-575x496-2x.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Construction Management Software for Specialty Contractors",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Cover",
+                    "mobileImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": null,
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": null,
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "noBorderRadius": false,
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "advanced": "",
+            "headline": "",
+            "variants": "homepage",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+                {
+                    "_uid": "283951c9-ccdb-4726-810d-aa39f6054d13",
+                    "link": [
+                        {
+                            "_uid": "16ea4b10-6945-4761-a527-65b5316425f5",
+                            "icon": "chevron_right",
+                            "size": "small",
+                            "text": "Learn more",
+                            "color": {
+                                "_uid": "29044e3a-e2ac-4474-bfa9-c3d96c2ec1fe",
+                                "color": "#FFFFFF",
+                                "plugin": "official-colorpicker"
+                            },
+                            "modal": [],
+                            "params": "",
+                            "bgColor": {
+                                "_uid": "923f7137-a849-414f-b521-9d8e0876e9be",
+                                "color": "#000002",
+                                "plugin": "official-colorpicker"
+                            },
+                            "linksTo": {
+                                "id": "1497f578-72cc-4b8e-a3a3-a580b0114ada",
+                                "url": "",
+                                "linktype": "story",
+                                "fieldtype": "multilink",
+                                "cached_url": "us/solutions/specialty-contractors",
+                                "story": {
+                                    "name": "Specialty Contractors",
+                                    "id": 26271699,
+                                    "uuid": "1497f578-72cc-4b8e-a3a3-a580b0114ada",
+                                    "slug": "specialty-contractors",
+                                    "url": "us/solutions/specialty-contractors",
+                                    "full_slug": "us/solutions/specialty-contractors",
+                                    "_stopResolving": true
+                                }
+                            },
+                            "variant": "contained",
+                            "disabled": false,
+                            "dropdown": [],
+                            "fragment": "",
+                            "component": "button",
+                            "fullWidth": false,
+                            "dataProduct": "",
+                            "modalIsDark": false,
+                            "openInNewTab": false,
+                            "dataAnalytics": "",
+                            "textTransform": "",
+                            "alignmentButton": "left",
+                            "forwardUTMParams": false,
+                            "mutinyConversion": "homepage_Subs_LearnMore",
+                            "anchorLinkIsInvisible": false,
+                            "isButtonAssetDownload": false
+                        }
+                    ],
+                    "stat": "",
+                    "title": "Specialty Contractors",
+                    "boldTitle": true,
+                    "component": "highlight",
+                    "description": "Set your teams up for success at any stage with robust solutions for planning, fabrication, and field work."
+                }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": false,
+            "imageFullWidth": false,
+            "backgroundColor": {
+                "_uid": "7ea4f6a8-f9d9-422e-a590-bf69e4186468",
+                "color": "linear-gradient(90deg, rgba(204, 204, 204, 0.15), rgba(255, 255, 255, 0.00)) #FFFFFF",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "0",
+            "addShadowToImage": false,
+            "showImageOnMobile": true,
+            "imagePaddingBottom": "0",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+                "_uid": "bbc1fd67-e180-4f78-a694-6279fb59ec62",
+                "color": "#000002",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "",
+            "mobileImageOnBottom": false
+        },
+        {
+            "_uid": "a905ee86-27c0-45cf-b9ef-5d774e56dc7a",
+            "color": {
+                "_uid": "165a1095-eb95-49c6-b8d6-57852f9b2655",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "image": [
+                {
+                    "_uid": "ec59c21d-8219-4885-b272-5ce696b157b8",
+                    "image": "//a.storyblok.com/f/64835/1208x660/b26d20901f/segment-owners-collage-603x417-2x.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "Construction Management Software for Construction Owners",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "Cover",
+                    "mobileImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": "",
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "tabletImage": {
+                        "id": null,
+                        "alt": null,
+                        "name": "",
+                        "focus": null,
+                        "title": null,
+                        "filename": "",
+                        "copyright": null,
+                        "fieldtype": "asset"
+                    },
+                    "noBorderRadius": false,
+                    "objectPosition": "",
+                    "advancedSettings": ""
+                }
+            ],
+            "advanced": "",
+            "headline": "",
+            "variants": "homepage",
+            "component": "twoColHighlightsWithImage",
+            "highlights": [
+                {
+                    "_uid": "6f8a894c-65cb-403f-8bcf-67e1d5faf494",
+                    "link": [
+                        {
+                            "_uid": "0f73fe08-09d6-4d8d-8320-6c34ce9f1d42",
+                            "icon": "chevron_right",
+                            "size": "small",
+                            "text": "Learn more",
+                            "color": {
+                                "_uid": "29044e3a-e2ac-4474-bfa9-c3d96c2ec1fe",
+                                "color": "#FFFFFF",
+                                "plugin": "official-colorpicker"
+                            },
+                            "modal": [],
+                            "params": "",
+                            "bgColor": {
+                                "_uid": "923f7137-a849-414f-b521-9d8e0876e9be",
+                                "color": "#000002",
+                                "plugin": "official-colorpicker"
+                            },
+                            "linksTo": {
+                                "id": "938adfe7-c5be-47db-9fa0-f94779030105",
+                                "url": "",
+                                "linktype": "story",
+                                "fieldtype": "multilink",
+                                "cached_url": "us/solutions/owners",
+                                "story": {
+                                    "name": "Owners",
+                                    "id": 29964352,
+                                    "uuid": "938adfe7-c5be-47db-9fa0-f94779030105",
+                                    "slug": "owners",
+                                    "url": "us/solutions/owners",
+                                    "full_slug": "us/solutions/owners",
+                                    "_stopResolving": true
+                                }
+                            },
+                            "variant": "contained",
+                            "disabled": false,
+                            "dropdown": [],
+                            "fragment": "",
+                            "component": "button",
+                            "fullWidth": false,
+                            "dataProduct": "",
+                            "modalIsDark": false,
+                            "openInNewTab": false,
+                            "dataAnalytics": "",
+                            "textTransform": "",
+                            "alignmentButton": "left",
+                            "forwardUTMParams": false,
+                            "mutinyConversion": "homepage_Owners_LearnMore",
+                            "anchorLinkIsInvisible": false,
+                            "isButtonAssetDownload": false
+                        }
+                    ],
+                    "stat": "",
+                    "title": "Owners",
+                    "boldTitle": true,
+                    "component": "highlight",
+                    "description": "Manage construction lifecycle costs across your portfolio and make more informed decisions with the latest BIM data."
+                }
+            ],
+            "imageAlign": "center",
+            "description": "",
+            "imageOnRight": true,
+            "imageFullWidth": false,
+            "backgroundColor": {
+                "_uid": "7ea4f6a8-f9d9-422e-a590-bf69e4186468",
+                "color": "linear-gradient(90deg, rgba(255, 255, 255, 0.00), rgba(204, 204, 204, 0.15)) #FFFFFF",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingTop": "0",
+            "addShadowToImage": false,
+            "showImageOnMobile": true,
+            "imagePaddingBottom": "0",
+            "isMobileScreenshot": false,
+            "highlightTitleColor": {
+                "_uid": "bbc1fd67-e180-4f78-a694-6279fb59ec62",
+                "color": "#000002",
+                "plugin": "official-colorpicker"
+            },
+            "imagePaddingOutside": "10",
+            "mobileImageOnBottom": false
+        },
+        {
+            "_uid": "2ff6b05d-291d-47aa-83ad-9d727d2d5a8f",
+            "amount": "4",
+            "margin": "",
+            "bgColor": {
+                "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "padding": "",
+            "anchorId": "",
+            "component": "spacing",
+            "isFullWidth": false
+        },
+        {
+            "cta": [],
+            "_uid": "20c475e7-510d-417c-931f-67bd2cba629e",
+            "body": [],
+            "icon": [],
+            "title": "",
+            "bgColor": {
+                "_uid": "8102d6e1-8525-4394-85bc-5d2b25becc44",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "variant": "light-blue",
+            "iconText": "",
+            "subtitle": "Working together is no longer hard work",
+            "component": "titleSubtitleDescriptionModule",
+            "smallTitle": false,
+            "description": [
+                {
+                    "_uid": "47bceab4-108f-4241-afd2-8602dbed2321",
+                    "variant": "default",
+                    "markdown": "Manage every construction project from design to done, with connected tools for every workflow.",
+                    "component": "markdown"
+                }
+            ],
+            "subtitleColor": {
+                "_uid": "afeb0dbf-1fcf-45db-a9a4-3693749a5a74",
+                "color": "#0696D7",
+                "plugin": "official-colorpicker"
+            },
+            "textAlignment": "",
+            "subtitleProportion": "",
+            "descriptionProportion": ""
+        },
+        {
+            "cta": [
+                {
+                    "_uid": "ab395584-b7f5-434c-a9b2-bdead9325d8b",
+                    "icon": [
+                        {
+                            "_uid": "06aaa790-9c9e-4754-9f4f-c8b48fd0c8e9",
+                            "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "",
+                            "objectFit": "Contain",
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "link": {
+                        "id": "31ad4c53-d3e6-4774-89ec-dff389d4884c",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "us/workflows/",
+                        "story": {
+                            "name": "All Workflows",
+                            "id": 35138378,
+                            "uuid": "31ad4c53-d3e6-4774-89ec-dff389d4884c",
+                            "slug": "workflows",
+                            "url": "us/workflows/",
+                            "full_slug": "us/workflows/",
+                            "_stopResolving": true
+                        }
+                    },
+                    "modal": [],
+                    "params": "",
+                    "allCaps": false,
+                    "subLink": [],
+                    "variant": "simpleBold",
+                    "download": "",
+                    "fragment": "",
+                    "noFollow": false,
+                    "component": "link",
+                    "dataProduct": "",
+                    "downloadable": false,
+                    "noLeftMargin": false,
+                    "openInNewTab": false,
+                    "dataAnalytics": "",
+                    "forcePageLoad": false,
+                    "textToHyperlink": "See All Workflows",
+                    "mutinyConversion": "",
+                    "contentToHyperlink": [],
+                    "linkWithoutUnderline": false,
+                    "anchorLinkIsInvisible": false
+                }
+            ],
+            "_uid": "e0fb7f95-016a-4207-bc40-6b7d722a3511",
+            "tabs": [
+                {
+                    "_uid": "01b99021-efc0-4618-918f-7062a0256dcb",
+                    "title": "Document Management",
+                    "content": [
+                        {
+                            "_uid": "fc31d408-761e-4699-b656-e208762f5a52",
+                            "image": [
+                                {
+                                    "_uid": "11bb5296-ef1f-4d8c-bfe2-cd339513c55e",
+                                    "image": "//a.storyblok.com/f/64835/1119x1395/685f07d12f/reliable-version-control-3x.png",
+                                    "title": "",
+                                    "width": "",
+                                    "height": "",
+                                    "altText": "Construction Document Management Software",
+                                    "maxWidth": "",
+                                    "minWidth": "",
+                                    "component": "image",
+                                    "maxHeight": "",
+                                    "minHeight": "",
+                                    "objectFit": "Contain",
+                                    "objectPosition": "",
+                                    "advancedSettings": ""
+                                }
+                            ],
+                            "headline": "",
+                            "variants": "products-overview",
+                            "component": "twoColHighlightsWithImage",
+                            "highlights": [
+                                {
+                                    "_uid": "22c15512-d070-4d09-97fb-01f77d0af68d",
+                                    "link": [
+                                        {
+                                            "_uid": "c0dfdb93-249a-4144-9d78-3269493d9538",
+                                            "icon": [
+                                                {
+                                                    "_uid": "7a7efdbb-f8bf-4659-b66d-7fd78c9ef8a4",
+                                                    "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                                                    "title": "",
+                                                    "width": "",
+                                                    "height": "",
+                                                    "altText": "",
+                                                    "maxWidth": "",
+                                                    "minWidth": "",
+                                                    "component": "image",
+                                                    "maxHeight": "",
+                                                    "minHeight": "",
+                                                    "objectFit": "Contain",
+                                                    "objectPosition": "",
+                                                    "advancedSettings": ""
+                                                }
+                                            ],
+                                            "link": {
+                                                "id": "af5813db-e4d1-4c00-b392-ef54a35c30c9",
+                                                "url": "",
+                                                "linktype": "story",
+                                                "fieldtype": "multilink",
+                                                "cached_url": "us/workflows/construction-document-management",
+                                                "story": {
+                                                    "name": "Document Management",
+                                                    "id": 23912082,
+                                                    "uuid": "af5813db-e4d1-4c00-b392-ef54a35c30c9",
+                                                    "slug": "construction-document-management",
+                                                    "url": "us/workflows/construction-document-management",
+                                                    "full_slug": "us/workflows/construction-document-management",
+                                                    "_stopResolving": true
+                                                }
+                                            },
+                                            "modal": [],
+                                            "params": "",
+                                            "allCaps": false,
+                                            "subLink": [],
+                                            "variant": "simpleBold",
+                                            "download": "",
+                                            "fragment": "",
+                                            "noFollow": false,
+                                            "component": "link",
+                                            "dataProduct": "",
+                                            "downloadable": false,
+                                            "noLeftMargin": false,
+                                            "openInNewTab": false,
+                                            "dataAnalytics": "",
+                                            "forcePageLoad": false,
+                                            "textToHyperlink": "See More Document Management",
+                                            "mutinyConversion": "",
+                                            "contentToHyperlink": [],
+                                            "linkWithoutUnderline": false,
+                                            "anchorLinkIsInvisible": false
+                                        }
+                                    ],
+                                    "stat": "",
+                                    "title": "Document Management",
+                                    "ctaText": "",
+                                    "boldTitle": true,
+                                    "component": "highlight",
+                                    "description": "Stop searching for information. Centralize and manage all your documents in one place, from design to operations."
+                                }
+                            ],
+                            "imageAlign": "center",
+                            "description": "",
+                            "imageOnRight": true,
+                            "backgroundColor": {
+                                "_uid": "6e48429f-ac6b-4601-a7a7-3178919ca9f5",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingTop": "",
+                            "addShadowToImage": false,
+                            "showImageOnMobile": true,
+                            "imagePaddingBottom": "",
+                            "isMobileScreenshot": false,
+                            "highlightTitleColor": {
+                                "_uid": "2cdce7fd-b15a-47c3-a456-a289ee2dc778",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingOutside": "",
+                            "mobileImageOnBottom": true
+                        }
+                    ],
+                    "anchorId": "",
+                    "component": "tab",
+                    "titleCase": false
+                },
+                {
+                    "_uid": "344b3ef0-1e3d-49bc-92e9-25030b5d70b2",
+                    "title": "Bid Management",
+                    "content": [
+                        {
+                            "_uid": "3250eb9e-d0f2-4322-b2d0-6eda43054b21",
+                            "image": [
+                                {
+                                    "_uid": "e265aeec-7774-4bff-a907-55e5c8732a55",
+                                    "image": "//a.storyblok.com/f/64835/814x702/c304fc5214/workflows-bid-management-407x351-2x.png",
+                                    "title": "",
+                                    "width": "",
+                                    "height": "",
+                                    "altText": "Construction Bid Management Software",
+                                    "maxWidth": "",
+                                    "minWidth": "",
+                                    "component": "image",
+                                    "maxHeight": "",
+                                    "minHeight": "",
+                                    "objectFit": "Contain",
+                                    "objectPosition": "",
+                                    "advancedSettings": ""
+                                }
+                            ],
+                            "headline": "",
+                            "variants": "products-overview",
+                            "component": "twoColHighlightsWithImage",
+                            "highlights": [
+                                {
+                                    "_uid": "5117fd0f-b6dd-4df8-b6c5-76c5859c8edc",
+                                    "link": [
+                                        {
+                                            "_uid": "71a85935-d0d4-41b0-be89-1605027ecab2",
+                                            "icon": [
+                                                {
+                                                    "_uid": "9c847c3e-2e73-4543-9190-354d177fa7a7",
+                                                    "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                                                    "title": "",
+                                                    "width": "",
+                                                    "height": "",
+                                                    "altText": "",
+                                                    "maxWidth": "",
+                                                    "minWidth": "",
+                                                    "component": "image",
+                                                    "maxHeight": "",
+                                                    "minHeight": "",
+                                                    "objectFit": "Contain",
+                                                    "objectPosition": "",
+                                                    "advancedSettings": ""
+                                                }
+                                            ],
+                                            "link": {
+                                                "id": "1e8a33f0-3c02-4d7c-bae4-8dbd7cb997ea",
+                                                "url": "",
+                                                "linktype": "story",
+                                                "fieldtype": "multilink",
+                                                "cached_url": "us/workflows/construction-bid-management",
+                                                "story": {
+                                                    "name": "Bid Management",
+                                                    "id": 24105105,
+                                                    "uuid": "1e8a33f0-3c02-4d7c-bae4-8dbd7cb997ea",
+                                                    "slug": "construction-bid-management",
+                                                    "url": "us/workflows/construction-bid-management",
+                                                    "full_slug": "us/workflows/construction-bid-management",
+                                                    "_stopResolving": true
+                                                }
+                                            },
+                                            "modal": [],
+                                            "params": "",
+                                            "allCaps": false,
+                                            "subLink": [],
+                                            "variant": "simpleBold",
+                                            "download": "",
+                                            "fragment": "",
+                                            "noFollow": false,
+                                            "component": "link",
+                                            "dataProduct": "",
+                                            "downloadable": false,
+                                            "noLeftMargin": false,
+                                            "openInNewTab": false,
+                                            "dataAnalytics": "",
+                                            "forcePageLoad": false,
+                                            "textToHyperlink": "See More Bid Management",
+                                            "mutinyConversion": "",
+                                            "contentToHyperlink": [],
+                                            "linkWithoutUnderline": false,
+                                            "anchorLinkIsInvisible": false
+                                        }
+                                    ],
+                                    "stat": "",
+                                    "title": "Bid Management",
+                                    "ctaText": "",
+                                    "boldTitle": true,
+                                    "component": "highlight",
+                                    "description": "Find and choose the right builders for every project from the largest crowd-sourced construction network."
+                                }
+                            ],
+                            "imageAlign": "center",
+                            "description": "",
+                            "imageOnRight": true,
+                            "backgroundColor": {
+                                "_uid": "6e48429f-ac6b-4601-a7a7-3178919ca9f5",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingTop": "",
+                            "addShadowToImage": false,
+                            "showImageOnMobile": true,
+                            "imagePaddingBottom": "",
+                            "isMobileScreenshot": false,
+                            "highlightTitleColor": {
+                                "_uid": "2cdce7fd-b15a-47c3-a456-a289ee2dc778",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingOutside": "",
+                            "mobileImageOnBottom": true
+                        }
+                    ],
+                    "anchorId": "",
+                    "component": "tab",
+                    "titleCase": false
+                },
+                {
+                    "_uid": "ff206359-a70b-47f9-8140-b106f8ed61f1",
+                    "title": "Model Coordination",
+                    "content": [
+                        {
+                            "_uid": "c04fb7e3-9e8c-438b-943a-d4aa82d5bb8a",
+                            "image": [
+                                {
+                                    "_uid": "0f7493dc-c6a3-417f-913b-249f66397b25",
+                                    "image": "//a.storyblok.com/f/64835/805x969/c17390bf5f/workflows-model-coordination-404x468-2x.png",
+                                    "title": "",
+                                    "width": "",
+                                    "height": "",
+                                    "altText": "Construction Model Coordination Software",
+                                    "maxWidth": "",
+                                    "minWidth": "",
+                                    "component": "image",
+                                    "maxHeight": "",
+                                    "minHeight": "",
+                                    "objectFit": "Contain",
+                                    "objectPosition": "",
+                                    "advancedSettings": ""
+                                }
+                            ],
+                            "headline": "",
+                            "variants": "products-overview",
+                            "component": "twoColHighlightsWithImage",
+                            "highlights": [
+                                {
+                                    "_uid": "b52e6a38-3f1a-47f8-a470-4a688a0e5f6b",
+                                    "link": [
+                                        {
+                                            "_uid": "79e5ddd0-0024-4dbd-adc2-15b483a99eab",
+                                            "icon": [
+                                                {
+                                                    "_uid": "45139038-3a21-4452-875c-e2a6b6bc565d",
+                                                    "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                                                    "title": "",
+                                                    "width": "",
+                                                    "height": "",
+                                                    "altText": "",
+                                                    "maxWidth": "",
+                                                    "minWidth": "",
+                                                    "component": "image",
+                                                    "maxHeight": "",
+                                                    "minHeight": "",
+                                                    "objectFit": "Contain",
+                                                    "objectPosition": "",
+                                                    "advancedSettings": ""
+                                                }
+                                            ],
+                                            "link": {
+                                                "id": "e8f6bcf7-a0e2-47f4-b510-5f3121d009ec",
+                                                "url": "",
+                                                "linktype": "story",
+                                                "fieldtype": "multilink",
+                                                "cached_url": "us/workflows/bim-coordination-collaboration",
+                                                "story": {
+                                                    "name": "Model Coordination ",
+                                                    "id": 24226800,
+                                                    "uuid": "e8f6bcf7-a0e2-47f4-b510-5f3121d009ec",
+                                                    "slug": "bim-coordination-collaboration",
+                                                    "url": "us/workflows/bim-coordination-collaboration",
+                                                    "full_slug": "us/workflows/bim-coordination-collaboration",
+                                                    "_stopResolving": true
+                                                }
+                                            },
+                                            "modal": [],
+                                            "params": "",
+                                            "allCaps": false,
+                                            "subLink": [],
+                                            "variant": "simpleBold",
+                                            "download": "",
+                                            "fragment": "",
+                                            "noFollow": false,
+                                            "component": "link",
+                                            "dataProduct": "",
+                                            "downloadable": false,
+                                            "noLeftMargin": false,
+                                            "openInNewTab": false,
+                                            "dataAnalytics": "",
+                                            "forcePageLoad": false,
+                                            "textToHyperlink": "See More Model Coordination",
+                                            "mutinyConversion": "",
+                                            "contentToHyperlink": [],
+                                            "linkWithoutUnderline": false,
+                                            "anchorLinkIsInvisible": false
+                                        }
+                                    ],
+                                    "stat": "",
+                                    "title": "Model Coordination",
+                                    "ctaText": "",
+                                    "boldTitle": true,
+                                    "component": "highlight",
+                                    "description": "Identify issues and reduce rework before breaking ground. Catch, clear, and resolve clashes before they become problems."
+                                }
+                            ],
+                            "imageAlign": "center",
+                            "description": "",
+                            "imageOnRight": true,
+                            "backgroundColor": {
+                                "_uid": "6e48429f-ac6b-4601-a7a7-3178919ca9f5",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingTop": "",
+                            "addShadowToImage": false,
+                            "showImageOnMobile": true,
+                            "imagePaddingBottom": "",
+                            "isMobileScreenshot": false,
+                            "highlightTitleColor": {
+                                "_uid": "2cdce7fd-b15a-47c3-a456-a289ee2dc778",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingOutside": "",
+                            "mobileImageOnBottom": true
+                        }
+                    ],
+                    "anchorId": "",
+                    "component": "tab",
+                    "titleCase": false
+                },
+                {
+                    "_uid": "1467c114-6afa-4c70-b9ad-bfbe8393df12",
+                    "title": "Project Management",
+                    "content": [
+                        {
+                            "_uid": "1175e718-6efa-445a-983f-ee66dc5f86ce",
+                            "image": [
+                                {
+                                    "_uid": "eb78ece9-51b1-4945-b874-a5e1205f26e4",
+                                    "image": "//a.storyblok.com/f/64835/780x838/7d5e6c9454/workflows-project-management-390x419-2x.png",
+                                    "title": "",
+                                    "width": "",
+                                    "height": "",
+                                    "altText": "Construction Project Management Software",
+                                    "maxWidth": "",
+                                    "minWidth": "",
+                                    "component": "image",
+                                    "maxHeight": "",
+                                    "minHeight": "",
+                                    "objectFit": "Contain",
+                                    "objectPosition": "",
+                                    "advancedSettings": ""
+                                }
+                            ],
+                            "headline": "",
+                            "variants": "products-overview",
+                            "component": "twoColHighlightsWithImage",
+                            "highlights": [
+                                {
+                                    "_uid": "fe604db5-044e-499f-8f91-6aa25489a6d4",
+                                    "link": [
+                                        {
+                                            "_uid": "69cd5b7e-f3bc-4567-9f78-5055cfb5dfbe",
+                                            "icon": [
+                                                {
+                                                    "_uid": "b319e43b-92d2-4943-939c-124abc9a0695",
+                                                    "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                                                    "title": "",
+                                                    "width": "",
+                                                    "height": "",
+                                                    "altText": "",
+                                                    "maxWidth": "",
+                                                    "minWidth": "",
+                                                    "component": "image",
+                                                    "maxHeight": "",
+                                                    "minHeight": "",
+                                                    "objectFit": "Contain",
+                                                    "objectPosition": "",
+                                                    "advancedSettings": ""
+                                                }
+                                            ],
+                                            "link": {
+                                                "id": "7f87d907-77dd-4326-913a-4740b2e3209d",
+                                                "url": "",
+                                                "linktype": "story",
+                                                "fieldtype": "multilink",
+                                                "cached_url": "us/workflows/construction-project-management",
+                                                "story": {
+                                                    "name": "Project Management",
+                                                    "id": 23896912,
+                                                    "uuid": "7f87d907-77dd-4326-913a-4740b2e3209d",
+                                                    "slug": "construction-project-management",
+                                                    "url": "us/workflows/construction-project-management",
+                                                    "full_slug": "us/workflows/construction-project-management",
+                                                    "_stopResolving": true
+                                                }
+                                            },
+                                            "modal": [],
+                                            "params": "",
+                                            "allCaps": false,
+                                            "subLink": [],
+                                            "variant": "simpleBold",
+                                            "download": "",
+                                            "fragment": "",
+                                            "noFollow": false,
+                                            "component": "link",
+                                            "dataProduct": "",
+                                            "downloadable": false,
+                                            "noLeftMargin": false,
+                                            "openInNewTab": false,
+                                            "dataAnalytics": "",
+                                            "forcePageLoad": false,
+                                            "textToHyperlink": "See More Project Management",
+                                            "mutinyConversion": "",
+                                            "contentToHyperlink": [],
+                                            "linkWithoutUnderline": false,
+                                            "anchorLinkIsInvisible": false
+                                        }
+                                    ],
+                                    "stat": "",
+                                    "title": "Project Management",
+                                    "ctaText": "",
+                                    "boldTitle": true,
+                                    "component": "highlight",
+                                    "description": "Connect your field and office teams with configurable and intuitive RFIs, submittals, daily reports, and much more."
+                                }
+                            ],
+                            "imageAlign": "center",
+                            "description": "",
+                            "imageOnRight": true,
+                            "backgroundColor": {
+                                "_uid": "6e48429f-ac6b-4601-a7a7-3178919ca9f5",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingTop": "",
+                            "addShadowToImage": false,
+                            "showImageOnMobile": true,
+                            "imagePaddingBottom": "",
+                            "isMobileScreenshot": false,
+                            "highlightTitleColor": {
+                                "_uid": "2cdce7fd-b15a-47c3-a456-a289ee2dc778",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingOutside": "",
+                            "mobileImageOnBottom": true
+                        }
+                    ],
+                    "anchorId": "",
+                    "component": "tab",
+                    "titleCase": false
+                },
+                {
+                    "_uid": "9db698b6-4906-48f8-8c79-38f727143bc0",
+                    "title": "Cost Management",
+                    "content": [
+                        {
+                            "_uid": "ed09d537-388b-4a68-9adc-9acad1a13f6e",
+                            "image": [
+                                {
+                                    "_uid": "547a78ab-4c9d-440d-9fd0-35554a0b07a5",
+                                    "image": "//a.storyblok.com/f/64835/762x624/ca32239199/workflows-cost-management-381x312-2x.png",
+                                    "title": "",
+                                    "width": "",
+                                    "height": "",
+                                    "altText": "Construction Cost Management Software",
+                                    "maxWidth": "",
+                                    "minWidth": "",
+                                    "component": "image",
+                                    "maxHeight": "",
+                                    "minHeight": "",
+                                    "objectFit": "Contain",
+                                    "objectPosition": "",
+                                    "advancedSettings": ""
+                                }
+                            ],
+                            "headline": "",
+                            "variants": "products-overview",
+                            "component": "twoColHighlightsWithImage",
+                            "highlights": [
+                                {
+                                    "_uid": "36acb67e-1a1d-4aa8-9ab6-d26a325e7f1a",
+                                    "link": [
+                                        {
+                                            "_uid": "3d41747a-939b-42e0-bfbc-2c660429e168",
+                                            "icon": [
+                                                {
+                                                    "_uid": "009c15fc-840f-4e4c-83e3-f4ac6c861ccc",
+                                                    "image": "//a.storyblok.com/f/64835/24x24/bfaf5b7455/cta-arrow-right.svg",
+                                                    "title": "",
+                                                    "width": "",
+                                                    "height": "",
+                                                    "altText": "",
+                                                    "maxWidth": "",
+                                                    "minWidth": "",
+                                                    "component": "image",
+                                                    "maxHeight": "",
+                                                    "minHeight": "",
+                                                    "objectFit": "Contain",
+                                                    "objectPosition": "",
+                                                    "advancedSettings": ""
+                                                }
+                                            ],
+                                            "link": {
+                                                "id": "cddc0a32-a2af-43bc-b294-bc3fbf409025",
+                                                "url": "",
+                                                "linktype": "story",
+                                                "fieldtype": "multilink",
+                                                "cached_url": "us/workflows/construction-cost-management",
+                                                "story": {
+                                                    "name": "Cost Management",
+                                                    "id": 23902217,
+                                                    "uuid": "cddc0a32-a2af-43bc-b294-bc3fbf409025",
+                                                    "slug": "construction-cost-management",
+                                                    "url": "us/workflows/construction-cost-management",
+                                                    "full_slug": "us/workflows/construction-cost-management",
+                                                    "_stopResolving": true
+                                                }
+                                            },
+                                            "modal": [],
+                                            "params": "",
+                                            "allCaps": false,
+                                            "subLink": [],
+                                            "variant": "simpleBold",
+                                            "download": "",
+                                            "fragment": "",
+                                            "noFollow": false,
+                                            "component": "link",
+                                            "dataProduct": "",
+                                            "downloadable": false,
+                                            "noLeftMargin": false,
+                                            "openInNewTab": false,
+                                            "dataAnalytics": "",
+                                            "forcePageLoad": false,
+                                            "textToHyperlink": "See More Cost Management",
+                                            "mutinyConversion": "",
+                                            "contentToHyperlink": [],
+                                            "linkWithoutUnderline": false,
+                                            "anchorLinkIsInvisible": false
+                                        }
+                                    ],
+                                    "stat": "",
+                                    "title": "Cost Management",
+                                    "ctaText": "",
+                                    "boldTitle": true,
+                                    "component": "highlight",
+                                    "description": "Get instant visibility into profits—and risk—when you manage and control costs from a single solution."
+                                }
+                            ],
+                            "imageAlign": "center",
+                            "description": "",
+                            "imageOnRight": true,
+                            "backgroundColor": {
+                                "_uid": "6e48429f-ac6b-4601-a7a7-3178919ca9f5",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingTop": "",
+                            "addShadowToImage": false,
+                            "showImageOnMobile": true,
+                            "imagePaddingBottom": "",
+                            "isMobileScreenshot": false,
+                            "highlightTitleColor": {
+                                "_uid": "2cdce7fd-b15a-47c3-a456-a289ee2dc778",
+                                "color": "",
+                                "plugin": "official-colorpicker"
+                            },
+                            "imagePaddingOutside": "",
+                            "mobileImageOnBottom": true
+                        }
+                    ],
+                    "anchorId": "",
+                    "component": "tab",
+                    "titleCase": false
+                }
+            ],
+            "type": "standard",
+            "title": "",
+            "variant": "vertical",
+            "component": "tabsModule",
+            "renderTitleAs": ""
+        },
+        {
+            "m": "",
+            "p": "",
+            "id": "integrations",
+            "mb": "",
+            "ml": "",
+            "mr": "",
+            "mt": "",
+            "mx": "",
+            "my": "",
+            "pb": "",
+            "pl": "",
+            "pr": "",
+            "pt": "",
+            "px": "",
+            "py": "",
+            "css": [],
+            "top": "",
+            "_uid": "fc82165f-859c-4064-b5cc-163cbeca4685",
+            "flex": "",
+            "left": "",
+            "clone": false,
+            "color": {
+                "_uid": "2eb242fe-361a-438a-9db3-7f97d00265e8",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "order": "",
+            "right": "",
+            "width": "auto",
+            "bgClip": "",
+            "bgSize": "",
+            "border": "",
+            "bottom": "",
+            "height": "auto",
+            "zIndex": "",
+            "bgColor": {
+                "_uid": "13e95a7d-6cf4-464d-baa2-f43c478e26a7",
+                "color": "#F9F9F9",
+                "plugin": "official-colorpicker"
+            },
+            "bgImage": {
+                "id": null,
+                "alt": null,
+                "name": "",
+                "focus": null,
+                "title": null,
+                "source": null,
+                "filename": "",
+                "copyright": null,
+                "fieldtype": "asset",
+                "meta_data": {}
+            },
+            "content": [
+                {
+                    "_uid": "0ce8eaeb-748f-45e1-ac55-b3171b0ab043",
+                    "amount": "4",
+                    "margin": "",
+                    "bgColor": {
+                        "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                        "color": "transparent",
+                        "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false
+                },
+                {
+                    "cta": [],
+                    "_uid": "143e0fbe-1a68-418b-994e-24b52161db3b",
+                    "body": [],
+                    "icon": [],
+                    "title": "",
+                    "bgColor": {
+                        "_uid": "6899bec5-e0e6-4727-8ecb-c4854451a2c5",
+                        "color": "transparent",
+                        "plugin": "official-colorpicker"
+                    },
+                    "variant": "",
+                    "iconText": "",
+                    "subtitle": "Integrate with the software you already use",
+                    "component": "titleSubtitleDescriptionModule",
+                    "smallTitle": false,
+                    "description": [
+                        {
+                            "_uid": "1b645db5-d8d0-41fb-b5e1-185ef5f2f908",
+                            "variant": "",
+                            "markdown": "Say goodbye to duplicate data entry. Connect Autodesk Construction Cloud construction management software to your existing tech stack, with over 250 pre-built integrations for ERPs, CRMs, and more.",
+                            "component": "markdown"
+                        }
+                    ],
+                    "iconTextIsH1": false,
+                    "textAlignment": "center",
+                    "subtitleProportion": "",
+                    "descriptionProportion": "85"
+                },
+                {
+                    "_uid": "fb9e6ce1-bdaf-4696-933f-ab8b99b3c0d4",
+                    "amount": "1",
+                    "margin": "",
+                    "bgColor": {
+                        "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                        "color": "transparent",
+                        "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false
+                },
+                {
+                    "cta": [
+                        {
+                            "_uid": "df7423e2-ffe9-4855-8590-93792a3004ed",
+                            "icon": "chevron_right",
+                            "size": "medium",
+                            "text": "See all integrations",
+                            "color": {
+                                "_uid": "35acd720-fbf5-4448-ad2c-9e7035657102",
+                                "color": "#FFFFFF",
+                                "plugin": "official-colorpicker"
+                            },
+                            "params": "",
+                            "bgColor": {
+                                "_uid": "6aaef97f-cac6-4c8e-abcc-4439aaaed537",
+                                "color": "#000002",
+                                "plugin": "official-colorpicker"
+                            },
+                            "linksTo": {
+                                "id": "dc27920e-ff89-4813-ac88-a8b99eae9acf",
+                                "url": "",
+                                "linktype": "story",
+                                "fieldtype": "multilink",
+                                "cached_url": "us/workflows/construction-software-integrations",
+                                "story": {
+                                    "name": "Integrations",
+                                    "id": 29964415,
+                                    "uuid": "dc27920e-ff89-4813-ac88-a8b99eae9acf",
+                                    "slug": "construction-software-integrations",
+                                    "url": "us/workflows/construction-software-integrations",
+                                    "full_slug": "us/workflows/construction-software-integrations",
+                                    "_stopResolving": true
+                                }
+                            },
+                            "variant": "contained",
+                            "disabled": false,
+                            "fragment": "",
+                            "analytics": "",
+                            "component": "button",
+                            "fullWidth": false,
+                            "alignmentButton": ""
+                        }
+                    ],
+                    "_uid": "d3da7e87-9352-4476-b4ef-1bbb014680e4",
+                    "image": [
+                        {
+                            "_uid": "456156ae-443e-4911-94ec-cccee845fb3e",
+                            "image": "//a.storyblok.com/f/64835/908x478/9494b1b20b/autodesk-construction-cloud-integrations-908x477.svg",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Autodesk Construction Cloud Integration Ecosystem",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "90%",
+                            "minHeight": "",
+                            "objectFit": "",
+                            "mobileImage": {
+                                "id": 10569137,
+                                "alt": "Autodesk Construction Cloud integrations",
+                                "name": "",
+                                "focus": "",
+                                "title": "",
+                                "source": "",
+                                "filename": "https://a.storyblok.com/f/64835/360x269/4d830af962/autodesk-construction-cloud-integrations-360x271.svg",
+                                "copyright": "",
+                                "fieldtype": "asset",
+                                "meta_data": {},
+                                "is_external_url": false
+                            },
+                            "tabletImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "title": "",
+                    "phases": [],
+                    "bgColor": {
+                        "_uid": "eeb50c97-1171-42ea-b741-831e03aea29f",
+                        "color": "transparent",
+                        "plugin": "official-colorpicker"
+                    },
+                    "component": "lifecycleModule"
+                },
+                {
+                    "_uid": "e8028a68-d67a-4d68-a11a-87f286f5e785",
+                    "amount": "6",
+                    "margin": "",
+                    "bgColor": {
+                        "_uid": "5d6227c2-a5b7-456b-b010-9f091795770d",
+                        "color": "transparent",
+                        "plugin": "official-colorpicker"
+                    },
+                    "padding": "",
+                    "anchorId": "",
+                    "component": "spacing",
+                    "isFullWidth": false
+                }
+            ],
+            "display": "block",
+            "htmlTag": "div",
+            "bgOrigin": "",
+            "bgRepeat": "",
+            "flexGrow": "",
+            "flexWrap": "",
+            "fontSize": "",
+            "maxWidth": "initial",
+            "minWidth": "initial",
+            "overflow": "",
+            "position": "",
+            "alignSelf": "",
+            "borderTop": "",
+            "boxShadow": "",
+            "component": "box",
+            "displayLG": "",
+            "displayMD": "",
+            "displaySM": "",
+            "displayXL": "",
+            "displayXS": "",
+            "fontStyle": "",
+            "maxHeight": "initial",
+            "minHeight": "initial",
+            "mobileCSS": [],
+            "tabletCSS": [],
+            "textAlign": "",
+            "alignItems": "",
+            "bgPosition": "",
+            "borderLeft": "",
+            "flexShrink": "",
+            "fontFamily": "Artifakt Legend,Arial,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\"",
+            "fontWeight": "",
+            "lineHeight": "",
+            "visibility": "",
+            "whiteSpace": "",
+            "bgBlendMode": "",
+            "borderColor": {
+                "_uid": "d150f85b-0693-46c0-9324-321e7c5fe7c7",
+                "color": "",
+                "plugin": "official-colorpicker"
+            },
+            "borderRight": "",
+            "alignContent": "",
+            "borderBottom": "",
+            "borderRadius": "",
+            "displayPrint": "",
+            "textOverflow": "",
+            "flexDirection": "",
+            "letterSpacing": "",
+            "justifyContent": "",
+            "hasPageContainer": true,
+            "hasFixedContainer": false,
+            "backgroundGradient": ""
+        },
+        {
+            "_uid": "b08f3808-d640-4da2-8046-b9174b6b1c2c",
+            "quotes": [
+                {
+                    "_uid": "7556dc02-bdf7-4cd8-b90d-3bd24c8e6cdc",
+                    "quote": "\"With the Autodesk platform, you’re able to not just collect data and put it in a file somewhere. You can actually take that information and manipulate it, so opportunities stand out.\"",
+                    "variant": "quoteMark",
+                    "headline": "",
+                    "component": "quoteModule",
+                    "authorName": "**Kelly Hoskovec,** \n\nProject Executive, \n\nLevel 10 Construction",
+                    "attribution": "Slide 1",
+                    "authorImage": [
+                        {
+                            "_uid": "04f73bdb-d7ed-484b-9efa-077924a1177f",
+                            "image": "//a.storyblok.com/f/64835/666x667/b3581bedce/testimonial-portrait-kelly-hoskovec-333x333-2x.png",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Kelly Hoskovec, Project Executive at Level 10 Construction",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "",
+                            "objectFit": "",
+                            "mobileImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "tabletImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "noBorderRadius": false,
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "companyLogo": [
+                        {
+                            "_uid": "dade03e7-c8b1-4a29-9673-3f7aca785437",
+                            "image": "//a.storyblok.com/f/64835/336x67/f9a01fd108/testimonials-level10-construction-logo-168x33-2x.png",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Level 10 Construction Logo",
+                            "maxWidth": "",
+                            "minWidth": "168px",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "33px",
+                            "objectFit": "Contain",
+                            "mobileImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "tabletImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "noBorderRadius": false,
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "removeTopSpacing": false
+                },
+                {
+                    "_uid": "8e2480f5-7162-4d71-937b-d7a988e290f6",
+                    "quote": "Autodesk Build is making the complex simple. With our teams connected and documents centralized, data is easily referenceable and allows teams to focus on higher-value areas.",
+                    "variant": "quoteMark",
+                    "headline": "",
+                    "component": "quoteModule",
+                    "authorName": "**Levi Naas,** \n\nDirector of Development, \n\nMultiGreen",
+                    "attribution": "",
+                    "authorImage": [
+                        {
+                            "_uid": "6c15651c-32c4-4a99-a535-7a53bcda6929",
+                            "image": "//a.storyblok.com/f/64835/666x666/0d1a100505/testimonial-levi-naas-photo-333x333-2x.png",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Levi Naas, Director of Development, MultiGreen Construction",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "",
+                            "objectFit": "Contain",
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "companyLogo": [
+                        {
+                            "_uid": "f72e9389-06a6-442d-941d-768c8af581da",
+                            "image": "//a.storyblok.com/f/64835/340x124/f0a11f199a/testimonials-multigreen-logo-170x61-2x.png",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Multigreen logo",
+                            "maxWidth": "",
+                            "minWidth": "168px",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "33px",
+                            "objectFit": "Contain",
+                            "mobileImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "tabletImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "noBorderRadius": false,
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "removeTopSpacing": false
+                },
+                {
+                    "_uid": "5092974a-dbe1-44c5-ab75-b36ac032a0d1",
+                    "quote": "We can do the entire project in Autodesk Construction Cloud instead of doing BIM coordination in a separate piece of software first.",
+                    "variant": "quoteMark",
+                    "headline": "",
+                    "component": "quoteModule",
+                    "authorName": "**Jay Mathesi,** \n\nVirtual Construction Civil Lead, \n\nMiron Construction",
+                    "attribution": "Slide 3",
+                    "authorImage": [
+                        {
+                            "_uid": "2f16d266-717e-4936-9206-f8c211720fea",
+                            "image": "//a.storyblok.com/f/64835/666x666/fe66cede8c/testimonial-jay-mathes-photo-333x333-2x.png",
+                            "title": "",
+                            "width": "",
+                            "height": "",
+                            "altText": "Jay Mathesi, Virtual Construction Civil Lead, Miron Construction",
+                            "maxWidth": "",
+                            "minWidth": "",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "",
+                            "objectFit": "Contain",
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "companyLogo": [
+                        {
+                            "_uid": "adecab52-b93c-4b05-b163-884ef903df15",
+                            "image": "//a.storyblok.com/f/64835/1541x723/59f8d46de0/miron-logo.svg",
+                            "title": "",
+                            "width": "168px",
+                            "height": "",
+                            "altText": "Miron Construction Logo",
+                            "maxWidth": "",
+                            "minWidth": "168px",
+                            "component": "image",
+                            "maxHeight": "",
+                            "minHeight": "33px",
+                            "objectFit": "Contain",
+                            "mobileImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "tabletImage": {
+                                "id": null,
+                                "alt": null,
+                                "name": "",
+                                "focus": null,
+                                "title": null,
+                                "filename": null,
+                                "copyright": null,
+                                "fieldtype": "asset"
+                            },
+                            "noBorderRadius": false,
+                            "objectPosition": "",
+                            "advancedSettings": ""
+                        }
+                    ],
+                    "removeTopSpacing": false
+                }
+            ],
+            "component": "quoteCarousel",
+            "quoteVariant": "profileVariant"
+        },
+        {
+            "_uid": "7126b9b1-5a9d-4367-a012-7a51d6fbf70f",
+            "icon": {
+                "id": null,
+                "alt": null,
+                "name": "",
+                "focus": null,
+                "title": null,
+                "source": null,
+                "filename": "",
+                "copyright": null,
+                "fieldtype": "asset",
+                "meta_data": {}
+            },
+            "link": [],
+            "button": [
+                {
+                    "_uid": "3bc8d94c-3c93-44b4-8fba-a5ca9c2eba40",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Get a Demo",
+                    "color": {
+                        "_uid": "5210c18c-147c-45a7-9216-f8556e2c7c06",
+                        "color": "#1858A8",
+                        "plugin": "official-colorpicker"
+                    },
+                    "params": "",
+                    "bgColor": {
+                        "_uid": "3a7d32fb-0ef0-409f-986c-86d904e4c495",
+                        "color": "#FFFFFF",
+                        "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                        "id": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "us/contact/",
+                        "story": {
+                            "name": "Contact Us 2.5",
+                            "id": 216790104,
+                            "uuid": "f396fbf2-7839-426b-bd2d-fd0776006f48",
+                            "slug": "contact",
+                            "url": "us/contact/",
+                            "full_slug": "us/contact/",
+                            "_stopResolving": true
+                        }
+                    },
+                    "variant": "contained",
+                    "disabled": false,
+                    "fragment": "",
+                    "analytics": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "textTransform": "",
+                    "alignmentButton": ""
+                },
+                {
+                    "_uid": "6b68d0b4-e59a-4df3-86e1-bd721aa50e04",
+                    "icon": "chevron_right",
+                    "size": "large",
+                    "text": "Try It Free",
+                    "color": {
+                        "_uid": "5210c18c-147c-45a7-9216-f8556e2c7c06",
+                        "color": "#FFFFFF",
+                        "plugin": "official-colorpicker"
+                    },
+                    "params": "",
+                    "bgColor": {
+                        "_uid": "3a7d32fb-0ef0-409f-986c-86d904e4c495",
+                        "color": "#FFFFFF",
+                        "plugin": "official-colorpicker"
+                    },
+                    "linksTo": {
+                        "id": "d879a2b9-15cc-4176-9a85-e09783f6ab2b",
+                        "url": "",
+                        "linktype": "story",
+                        "fieldtype": "multilink",
+                        "cached_url": "us/products/",
+                        "story": {
+                            "name": "All Products",
+                            "id": 32296754,
+                            "uuid": "d879a2b9-15cc-4176-9a85-e09783f6ab2b",
+                            "slug": "products",
+                            "url": "us/products/",
+                            "full_slug": "us/products/",
+                            "_stopResolving": true
+                        }
+                    },
+                    "variant": "outlined",
+                    "disabled": false,
+                    "fragment": "",
+                    "analytics": "",
+                    "component": "button",
+                    "fullWidth": false,
+                    "textTransform": "",
+                    "alignmentButton": ""
+                }
+            ],
+            "bgImage": [
+                {
+                    "_uid": "4bd861b5-c92f-44bb-bf92-d8586b325fe8",
+                    "image": "//a.storyblok.com/f/64835/2880x899/e4e4613431/homepage-cta-banner-offset-optimized.png",
+                    "title": "",
+                    "width": "",
+                    "height": "",
+                    "altText": "",
+                    "maxWidth": "",
+                    "minWidth": "",
+                    "component": "image",
+                    "maxHeight": "",
+                    "minHeight": "",
+                    "objectFit": "cover",
+                    "mobileImage": {
+                        "id": 10658577,
+                        "alt": "Using construction management software - mobile",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/64835/860x1418/4a4aab35ab/homepage-cta-banner-bg-mobile-optimized.jpg",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "tabletImage": {
+                        "id": 10658577,
+                        "alt": "Using construction management software - mobile",
+                        "name": "",
+                        "focus": "",
+                        "title": "",
+                        "source": "",
+                        "filename": "https://a.storyblok.com/f/64835/860x1418/4a4aab35ab/homepage-cta-banner-bg-mobile-optimized.jpg",
+                        "copyright": "",
+                        "fieldtype": "asset",
+                        "meta_data": {},
+                        "is_external_url": false
+                    },
+                    "objectPosition": "top right",
+                    "advancedSettings": ""
+                }
+            ],
+            "variant": "copyLeft",
+            "advanced": "",
+            "headline": "#### Getting started is easy\n",
+            "component": "ctaBannerModule",
+            "topOffset": "120",
+            "backgroundImage": {
+                "id": null,
+                "alt": null,
+                "name": "",
+                "focus": null,
+                "title": null,
+                "filename": null,
+                "copyright": null,
+                "fieldtype": "asset",
+                "meta_data": {},
+                "is_external_url": false
+            },
+            "markdownHeadline": ""
+        }
+    ],
+    "config": [],
+    "subNav": "",
+    "typFor": {
+        "id": "",
+        "url": "",
+        "linktype": "story",
+        "fieldtype": "multilink",
+        "cached_url": ""
+    },
+    "noIndex": false,
+    "variant": "default",
+    "metaData": {
+        "_uid": "e78c99b4-ee2d-4198-ba56-971bc28043be",
+        "title": "Construction Management Software | Autodesk Construction Cloud",
+        "plugin": "seo_metatags",
+        "og_image": "https://a.storyblok.com/f/64835/1201x700/4805f28882/autodesk-construction-cloud-linkedin1-1200x707.png",
+        "og_title": "Construction Management Software | Autodesk Construction Cloud",
+        "description": "Construction management software that is your single source of truth for every project. Learn how Autodesk Construction Cloud can help your teams collaborate securely and quickly across every project phase, so you can deliver projects on time and on budget.",
+        "twitter_image": "",
+        "twitter_title": "",
+        "og_description": "Tired of juggling different solutions to complete one construction project? Learn more about how Autodesk Construction Cloud can save you time and money by connecting every project stage on one platform.",
+        "twitter_description": ""
+    },
+    "component": "page",
+    "passwords": [],
+    "topNavCTA": [],
+    "l10nExport": true,
+    "dataProduct": "generic",
+    "invertedNav": false,
+    "topNavPhone": "",
+    "wistiaVideo": [],
+    "removeSubNav": false,
+    "canonicalPage": "",
+    "isLandingPage": false,
+    "redirectModal": "",
+    "swapLogoNavLP": "",
+    "conversionType": "",
+    "customNavLogin": [],
+    "customTopBanner": [],
+    "exitIntentModal": [],
+    "passwordProtect": false,
+    "removeBottomNav": false,
+    "removeTopBanner": false,
+    "removeNavLogoLink": false
+}
